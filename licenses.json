@@ -3,5 +3,10 @@
     "name": "개발자",
     "chip_id": "000004C547858428",
     "revoked": false
+  },
+  "6071b0262b3553d3c0c236d832a9d241a717eba18ea01cb17f0192a445de39ba": {
+    "name": "고객001",
+    "chip_id": "0000E44849858428",
+    "revoked": false
   }
 }
